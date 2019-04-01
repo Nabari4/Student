@@ -10,6 +10,11 @@ namespace Практика_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ввод данных: ");
+            Student Nabar = new Student();
+            Nabar.SetInfo();
+            Nabar.GetInfo();
+            Console.ReadKey();
         }
     }
 }

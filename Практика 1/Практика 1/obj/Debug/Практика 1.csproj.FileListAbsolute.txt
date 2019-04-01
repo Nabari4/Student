@@ -1,0 +1,7 @@
+E:\Практика\Практика 1\Практика 1\bin\Debug\Практика 1.exe.config
+E:\Практика\Практика 1\Практика 1\bin\Debug\Практика 1.exe
+E:\Практика\Практика 1\Практика 1\bin\Debug\Практика 1.pdb
+E:\Практика\Практика 1\Практика 1\obj\Debug\Практика 1.csprojAssemblyReference.cache
+E:\Практика\Практика 1\Практика 1\obj\Debug\Практика 1.csproj.CoreCompileInputs.cache
+E:\Практика\Практика 1\Практика 1\obj\Debug\Практика 1.exe
+E:\Практика\Практика 1\Практика 1\obj\Debug\Практика 1.pdb
